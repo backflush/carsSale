@@ -24,7 +24,7 @@ And you can use this project as you wish!
 **Cloning the Repository**
 
 ```
-$ git@github.com:SouzaWesley/carsSale.git
+$ git clone git@github.com:SouzaWesley/carsSale.git
 
 $ cd carsSaleClone
 ```
